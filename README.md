@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Este es un repositorio de prueba 
+Este es un repositorio es una prueba de como crear un repo y clonarlo
